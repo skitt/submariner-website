@@ -7,6 +7,8 @@ weight = 40
 
 ## v0.16.0
 
+Foo
+
 ## v0.14.5
 
 This is a bugfix release:
