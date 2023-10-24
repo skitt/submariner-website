@@ -373,6 +373,8 @@ weight = 40
   temporarily unavailable.
 * Reduced data path downtime with Libreswan cable driver when gateway pod restarts.
 
+## v0.17.0
+
 ## v0.16.0 (October 2, 2023)
 
 ### New features
